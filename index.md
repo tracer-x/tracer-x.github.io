@@ -1,4 +1,4 @@
-## TracerX: Symbolic Execution with Interpolation
+## TracerX: Dynamic Symbolic Execution with Interpolation
 
 TracerX is a symbolic virtual machine built on top of [KLEE](https://klee.github.io/) which executes LLVM IR, and available under the UIUC open source license. For more information on what TracerX is and what it can do, see [link](https://arxiv.org/...).
 
