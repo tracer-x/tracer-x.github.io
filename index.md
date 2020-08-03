@@ -4,7 +4,7 @@ TracerX is a symbolic virtual machine built on top of [KLEE](https://klee.github
 
 ### Getting Started
 
-Installation details can be seen [here](https://tracer-x.github.io/gettingstarted.md). 
+Installation details can be seen [here](https://tracer-x.github.io/gettingstarted). 
 
 ### Team Members
 
