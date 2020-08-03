@@ -2,6 +2,10 @@
 
 TracerX is a symbolic virtual machine built on top of [KLEE](https://klee.github.io/) which executes LLVM IR, and available under the UIUC open source license. For more information on what TracerX is and what it can do, see [link](https://arxiv.org/...).
 
+### Getting Started
+
+Installation details can be seen [here](gettingstarted.md). 
+
 ### Team Members
 
 The project is led by [Joxan Jaffar](https://www.comp.nus.edu.sg/~joxan/). Other team members are: [Rasool Maghareh](https://www.comp.nus.edu.sg/~rasool/), [Sangharatna Godboley](...) and Xuan-Linh Ha.
