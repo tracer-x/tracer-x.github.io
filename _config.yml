@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
-name: TracerX
+title: TracerX
+description: Symbolic Execution with Interpolation
+
