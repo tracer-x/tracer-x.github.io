@@ -25,9 +25,11 @@ $ sudo apt install graphviz libtcmalloc-minimal4 libgoogle-perftools-dev
 ```       
         
 **Build LLVM 3.4.2:**
+
 Users can build llvm-3.4.2 from source code or use the pre-built package from [here](https://releases.llvm.org/download.html#3.4.2).
 
-```Build from sources:
+```
+Build from sources:
 http://releases.llvm.org/3.4.2/llvm-3.4.2.src.tar.gz -> llvm-3.4.2
 http://releases.llvm.org/3.4.2/cfe-3.4.2.src.tar.gz -> llvm-3.4.2/tools/clang
               
