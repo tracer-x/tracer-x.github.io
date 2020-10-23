@@ -19,10 +19,10 @@ For a list of examples running with TracerX visit [here](https://tracer-x.github
 
 For more information on what TracerX is and what it can do, see the following publications  
 
-1. [TracerX: Dynamic Symbolic Execution with Interpolation, Arxiv, 2020](https://arxiv.org/...)
-2. [TracerX: Dynamic Symbolic Execution with Interpolation (Competition Contribution), FASE 2020] (https://link.springer.com/chapter/10.1007/978-3-030-45234-6_28)
-3. [The TRACER-X System, KLEE Workshop, 2018](https://srg.doc.ic.ac.uk/klee18/talks/Maghareh-Tracer-X.pdf)
-4. [TracerX poster, National University of Singapore, 2020]( https://github.com/tracer-x/tracer-x.github.io/blob/gh-pages/publications/tracerxposter.pdf)
+1. Jaffar, Joxan, Rasool Maghareh, Sangharatna Godboley, and Xuan-Linh Ha. "TracerX: Dynamic Symbolic Execution with Interpolation", Arxiv, 2020. [Link](https://arxiv.org/...)
+2. Jaffar, Joxan, Rasool Maghareh, Sangharatna Godboley, and Xuan-Linh Ha. "TracerX: Dynamic Symbolic Execution with Interpolation (Competition Contribution)." In FASE, pp. 530-534. 2020. [Link](https://link.springer.com/chapter/10.1007/978-3-030-45234-6_28)
+3. Jaffar, Joxan, Rasool Maghareh. "The TRACER-X System", KLEE Workshop, 2018. [Link](https://srg.doc.ic.ac.uk/klee18/talks/Maghareh-Tracer-X.pdf)
+4. TracerX poster, National University of Singapore, 2020. [Link](https://github.com/tracer-x/tracer-x.github.io/blob/gh-pages/publications/tracerxposter.pdf)
 
 ### Installing TracerX
 
