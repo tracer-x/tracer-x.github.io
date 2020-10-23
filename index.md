@@ -11,7 +11,18 @@ should have been found in one of the already-traversed paths. Subsumptions can b
 
 Abstraction learning has mainly been described for path enumeration performed in depth-first search. That is, the next path to be considered is the one from the "latest choicepoint". This is too restrictive in a testing environment, where we are always able to perform full exploration. The work ([Jaffar et al. 2013](https://dl.acm.org/doi/10.1145/2491411.2491425)) introduced the notion of "half-interpolation" whereby paths can be enumerated in any order, but this time producing half-interpolants instead of traditional (full) interpolants. Eventually, when sufficient half-interpolants are constructed, full interpolants can be constructed. In TracerX, we present this idea in a more general form and call it fractional interpolation. That is, interpolants associated with fraction can be constructed, and such interpolants can be combined to produce new interpolants assoicated with a higher fraction. When an interpolant's fraction becomes 1, it can then be used to subsume or prune other paths.
 
-For more information on what TracerX is and what it can do, see [here](https://arxiv.org/...). 
+### Example 
+
+For a list of examples running with TracerX visit [here](https://tracer-x.github.io/examples).
+
+### List of Publications & Presentations
+
+For more information on what TracerX is and what it can do, see the following publications  
+
+1- [TracerX: Dynamic Symbolic Execution with Interpolation, Arxiv, 2020](https://arxiv.org/...)
+2- [TracerX: Dynamic Symbolic Execution with Interpolation (Competition Contribution), FASE 2020] (https://link.springer.com/chapter/10.1007/978-3-030-45234-6_28)
+3- [The TRACER-X System, KLEE Workshop, 2018](https://srg.doc.ic.ac.uk/klee18/talks/Maghareh-Tracer-X.pdf)
+4- [TracerX poster, National University of Singapore, 2020]( https://github.com/tracer-x/tracer-x.github.io/blob/gh-pages/publications/tracerxposter.pdf)
 
 ### Installing TracerX
 
