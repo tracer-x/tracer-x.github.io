@@ -88,17 +88,22 @@ TX/z3/build $ cp ../src/api/z3*.h include/
 TX/z3/build $ cp ../src/api/c++/z3++.h include/
 TX/z3/build $ mkdir lib
 TX/z3/build $ cp libz3.so lib/
-```              
+```             
+
             
 **Build TracerX:**
 
 ```          
-TX $ git clone https://github.com/tracer-x/klee.git tracerx
+TX $ https://github.com/tracer-x/TracerX.git tracerx
 TX $ cd tracerx
 TX/tracerx $ ./configure LDFLAGS="-L$CURRENT_FOLDER/minisat/build/release/lib/" --with-llvm="$CURRENT_FOLDER/llvm-3.4.2" --with-stp="$CURRENT_FOLDER/stp/build" --with-uclibc="$CURRENT_FOLDER/klee-uclibc" --with-z3="$CURRENT_FOLDER/z3/build" --enable-posix-runtime
 TX/tracerx $ make -j `nproc` ENABLE_OPTIMIZED=1
 TX/tracerx $ cp ../z3/build/lib/libz3.so ./Release+Asserts/lib/
 ```         
+
+
+**Note:** We have noticed that the instruction `cp ../src/api/z3*.h include/ TX/z3/build $ cp ../src/api/c++/z3++.h include/` and `TX/tracerx $ make -j nproc ENABLE_OPTIMIZED=1`
+may encounter compilation errors. We realised this issue is due to the point that some c++11 keywords are not supported like `auto`. In such cases, a built Z3 version on an older machine can be copied (`z3*.h` and `z3++.h`) into the Z3 folder. 
         
 **Running TracerX:**
 
