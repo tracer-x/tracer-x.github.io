@@ -13,7 +13,7 @@ Abstraction learning has mainly been described for path enumeration performed in
 
 ### Example 
 
-For a list of examples running with TracerX visit [here](https://tracer-x.github.io/examples).
+For a list of examples running with TracerX visit [here](https://tracer-x.github.io/example).
 
 ### List of Publications & Presentations
 
