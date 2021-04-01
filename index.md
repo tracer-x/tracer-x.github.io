@@ -20,7 +20,7 @@ For a list of examples running with TracerX visit [here](https://tracer-x.github
 For more information on what TracerX is and what it can do, see the following publications  
 
 
-1.Slides for TracerX presentation in Test-comp 2021 [Link](https://github.com/tracer-x/tracer-x.github.io/blob/gh-pages/publications/TracerX_Testcomp_2021.pdf)
+1. Test-comp 2021 slides for TracerX [Link](https://github.com/tracer-x/tracer-x.github.io/blob/gh-pages/publications/TracerX_Testcomp_2021.pdf)
 2. Jaffar, Joxan, Rasool Maghareh, Sangharatna Godboley, and Xuan-Linh Ha. "TracerX: Dynamic Symbolic Execution with Interpolation", arXiv:2012.00556v1, 2020. [Link](https://arxiv.org/abs/2012.00556)
 3. Jaffar, Joxan, Rasool Maghareh, Sangharatna Godboley, and Xuan-Linh Ha. "TracerX: Dynamic Symbolic Execution with Interpolation (Competition Contribution)." In FASE, pp. 530-534. 2020. [Link](https://link.springer.com/chapter/10.1007/978-3-030-45234-6_28)
 4. Jaffar, Joxan, Rasool Maghareh. "The TRACER-X System", KLEE Workshop, 2018. [Link](https://srg.doc.ic.ac.uk/klee18/talks/Maghareh-Tracer-X.pdf)
