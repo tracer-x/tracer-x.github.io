@@ -29,7 +29,7 @@ For more information on what TracerX is and what it can do, see the following pu
 ### Installing TracerX
 
 - Installation details can be seen [here](https://tracer-x.github.io/gettingstarted). 
-- Install TracerX on Ubuntu-18.04 using Windows Subsytem for Linux (WSL) [here](tracer-x.github.io/installation-windows-subsystem.md)
+- Install TracerX on Ubuntu-18.04 using Windows Subsytem for Linux (WSL) [here](https://github.com/tracer-x/tracer-x.github.io/blob/gh-pages/installation-windows-subsystem.md)
 
 
 ### Team Members
