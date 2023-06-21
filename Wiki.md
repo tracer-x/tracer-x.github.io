@@ -1,4 +1,4 @@
-This wiki aims to summarize the class diagrams for the main library packages in TracerX that is built upon KLEE repository.
+This wiki aims to summarize the class diagrams for the main library packages in TracerX that is built upon KLEE (version 1.0) repository.
 
 ## 1. Overview
 
