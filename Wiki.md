@@ -54,3 +54,6 @@ ________________________________________________________________________________
 #### 2.6.2 Klee Namespace (Please click on Figure and zoom in for better view)
 ![Core (klee)](https://github.com/alvin21mfmlai/tracer-x.github.io/assets/70025024/dccdad59-9628-4435-bb69-1581e015cc00)
 _____________________________________________________________________________________________________________________________________________________________________________
+
+## 2. Class Representation of TracerX
+![Core-TX](https://github.com/tracer-x/tracer-x.github.io/assets/70025024/34907cc0-4fb7-4d3a-a52a-a8a53a6ff177)
