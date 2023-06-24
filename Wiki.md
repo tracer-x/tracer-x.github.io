@@ -54,3 +54,33 @@ ________________________________________________________________________________
 #### 2.6.2 Klee Namespace (Please click on Figure and zoom in for better view)
 ![Core (klee)](https://github.com/alvin21mfmlai/tracer-x.github.io/assets/70025024/dccdad59-9628-4435-bb69-1581e015cc00)
 _____________________________________________________________________________________________________________________________________________________________________________
+
+## 3. TX Classes
+Based on the current design of TX, the following classes can be identified, namely:
+
+  - TxPCConstraint
+  -	TxAllocationContext
+  -	TxVariable
+  -	TxInterpolantValue
+  -	TxStateAddress
+  -	TxStateValue
+  -	TxPrettyExpressionBuilder
+  -	TxPartitionHelper
+  -	TxTreeNode
+  -	TxStore
+  -	TxPathCondition
+  -	TxSubsumptionTable
+  -	TxSubsumptionTableEntry
+  -	TxExprHelper
+  -	TxDependency
+  -	TxStoreEntry
+  -	TxAllocationInfo
+  -	TxShadowArray
+  -	TxSpeculationHelper
+  -	TxWPHelper
+  -	TxWeakestPreCondition
+  -	TxTree
+
+### 3.1. TX Class Diagram(Please click on Figure and zoom in for better view)
+![Core-TX](https://github.com/tracer-x/tracer-x.github.io/assets/70025024/24bc5f6f-bf96-4b17-8a2b-d5b7bda7e574)
+_____________________________________________________________________________________________________________________________________________________________________________
