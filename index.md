@@ -32,7 +32,7 @@ For more information on what TracerX is and what it can do, see the following pu
 
 ### Wiki
 
-For more information on the class diagrams for Klee (Version 1.0) and TracerX (TX), visit [here](https://github.com/tracer-x/tracer-x.github.io/blob/gh-pages/Wiki.md).
+For more information on the class diagrams for Klee (Version 1.0) and TracerX (TX), visit [here](https://tracer-x.github.io/Wiki).
 
 ### Team Members
 
