@@ -19,7 +19,6 @@ For a list of examples running with TracerX visit [here](https://tracer-x.github
 
 For more information on what TracerX is and what it can do, see the following publications  
 
-
 1. Test-comp 2021 slides for TracerX [Link](https://github.com/tracer-x/tracer-x.github.io/blob/gh-pages/publications/TracerX_Testcomp_2021.pdf)
 2. Jaffar, Joxan, Rasool Maghareh, Sangharatna Godboley, and Xuan-Linh Ha. "TracerX: Dynamic Symbolic Execution with Interpolation", arXiv:2012.00556v1, 2020. [Link](https://arxiv.org/abs/2012.00556)
 3. Jaffar, Joxan, Rasool Maghareh, Sangharatna Godboley, and Xuan-Linh Ha. "TracerX: Dynamic Symbolic Execution with Interpolation (Competition Contribution)." In FASE, pp. 530-534. 2020. [Link](https://link.springer.com/chapter/10.1007/978-3-030-45234-6_28)
@@ -31,8 +30,11 @@ For more information on what TracerX is and what it can do, see the following pu
 - Installation details can be seen [here](https://tracer-x.github.io/gettingstarted). 
 - Install TracerX on Ubuntu-18.04 using Windows Subsytem for Linux (WSL) [here](https://github.com/tracer-x/tracer-x.github.io/blob/gh-pages/installation-windows-subsystem.md)
 
+### Wiki
+
+For more information on the class diagrams for Klee (Version 1.0) and TracerX (TX), visit [here](https://github.com/tracer-x/tracer-x.github.io/blob/gh-pages/Wiki.md).
 
 ### Team Members
 
-The project is led by [Joxan Jaffar](https://www.comp.nus.edu.sg/~joxan/). Other team members are: [Rasool Maghareh](https://www.comp.nus.edu.sg/~rasool/), [Sangharatna Godboley](https://nitw.irins.org/profile/154056) and Xuan-Linh Ha.
+The project is led by [Joxan Jaffar](https://www.comp.nus.edu.sg/~joxan/). Other team members are: [Rasool Maghareh](https://www.comp.nus.edu.sg/~rasool/), [Sangharatna Godboley](https://nitw.irins.org/profile/154056), Xuan-Linh Ha, Chew Wei Ze Alvin.
 
