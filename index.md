@@ -36,5 +36,5 @@ For more information on the class diagrams for Klee (Version 1.0) and TracerX (T
 
 ### Team Members
 
-The project is led by [Joxan Jaffar](https://www.comp.nus.edu.sg/~joxan/). Other team members are: [Rasool Maghareh](https://www.comp.nus.edu.sg/~rasool/), [Sangharatna Godboley](https://nitw.irins.org/profile/154056), Xuan-Linh Ha, Chew Wei Ze Alvin.
+The project is led by [Joxan Jaffar](https://www.comp.nus.edu.sg/~joxan/). Other team members are: [Rasool Maghareh](https://www.comp.nus.edu.sg/~rasool/), [Arpita Dutta](https://arpitad10j.wixsite.com/arpitad10j), [Sangharatna Godboley](https://nitw.irins.org/profile/154056), Xuan-Linh Ha, Chew Wei Ze Alvin.
 
