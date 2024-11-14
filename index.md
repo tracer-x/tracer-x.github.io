@@ -19,16 +19,18 @@ For a list of examples running with TracerX visit [here](https://tracer-x.github
 
 For more information on what TracerX is and what it can do, see the following publications  
 
-1. Test-comp 2021 slides for TracerX [Link](https://github.com/tracer-x/tracer-x.github.io/blob/gh-pages/publications/TracerX_Testcomp_2021.pdf)
-2. Jaffar, Joxan, Rasool Maghareh, Sangharatna Godboley, and Xuan-Linh Ha. "TracerX: Dynamic Symbolic Execution with Interpolation", arXiv:2012.00556v1, 2020. [Link](https://arxiv.org/abs/2012.00556)
-3. Jaffar, Joxan, Rasool Maghareh, Sangharatna Godboley, and Xuan-Linh Ha. "TracerX: Dynamic Symbolic Execution with Interpolation (Competition Contribution)." In FASE, pp. 530-534. 2020. [Link](https://link.springer.com/chapter/10.1007/978-3-030-45234-6_28)
-4. Jaffar, Joxan, Rasool Maghareh. "The TRACER-X System", KLEE Workshop, 2018. [Link](https://srg.doc.ic.ac.uk/klee18/talks/Maghareh-Tracer-X.pdf)
-5. TracerX poster, National University of Singapore, 2020. [Link](https://github.com/tracer-x/tracer-x.github.io/blob/gh-pages/publications/tracerxposter.pdf)
+1. Arpita Dutta, Rasool Maghareh, Joxan Jaffar, Sangharatna Godboley,  Xiao Liang Yu, "TracerX: Pruning Dynamic Symbolic Execution with Deletion and Weakest Precondition Interpolation" (Competition Contribution). In Int. Conf. on Fundamental Approaches to Software Engineering, (FASE'24), Luxembourg, 2024. [[Link to Paper](https://link.springer.com/chapter/10.1007/978-3-031-57259-3_19)] [Artifact Available,Evaluated and Reusable] [[Zenodo](https://zenodo.org/records/10202605)] 
+
+3. Test-comp 2021 slides for TracerX [Link](https://github.com/tracer-x/tracer-x.github.io/blob/gh-pages/publications/TracerX_Testcomp_2021.pdf)
+4. Joxan Jaffar, Rasool Maghareh, Sangharatna Godboley, and Xuan-Linh Ha. "TracerX: Dynamic Symbolic Execution with Interpolation", arXiv:2012.00556v1, 2020. [Link](https://arxiv.org/abs/2012.00556)
+5. Joxan Jaffar, Rasool Maghareh, Sangharatna Godboley, and Xuan-Linh Ha. "TracerX: Dynamic Symbolic Execution with Interpolation (Competition Contribution)." In FASE, pp. 530-534. 2020. [Link](https://link.springer.com/chapter/10.1007/978-3-030-45234-6_28)
+6. Joxan Jaffar, Rasool Maghareh. "The TRACER-X System", KLEE Workshop, 2018. [Link](https://srg.doc.ic.ac.uk/klee18/talks/Maghareh-Tracer-X.pdf)
+7. TracerX poster, National University of Singapore, 2020. [Link](https://github.com/tracer-x/tracer-x.github.io/blob/gh-pages/publications/tracerxposter.pdf)
 
 ### Installing TracerX
 
 - Installation details can be seen [here](https://tracer-x.github.io/gettingstarted). 
-- Install TracerX on Ubuntu-18.04 using Windows Subsytem for Linux (WSL) [here](https://github.com/tracer-x/tracer-x.github.io/blob/gh-pages/installation-windows-subsystem.md)
+- Install TracerX on Ubuntu-18.04 using Windows Subsystem for Linux (WSL) [here](https://github.com/tracer-x/tracer-x.github.io/blob/gh-pages/installation-windows-subsystem.md)
 
 ### Wiki
 
